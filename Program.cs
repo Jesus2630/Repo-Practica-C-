@@ -41,6 +41,14 @@ namespace Seccion2
             //Resto
             Console.WriteLine(5 % 2);
             Console.WriteLine(5.9 % 3.1);
+
+            //Orden de Jerarquías ||
+            //Mult|Div|Modulo
+            //|Suma|Resta
+
+            double jerarquia = (3/3) + (10 * 2);
+
+            Console.WriteLine(jerarquia);
         }
     }
 }
