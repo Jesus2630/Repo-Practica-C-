@@ -1,0 +1,15 @@
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\bin\Debug\net6.0\myfirstapp.exe
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\bin\Debug\net6.0\myfirstapp.deps.json
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\bin\Debug\net6.0\myfirstapp.runtimeconfig.json
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\bin\Debug\net6.0\myfirstapp.dll
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\bin\Debug\net6.0\myfirstapp.pdb
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.AssemblyReference.cache
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfoInputs.cache
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfo.cs
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.CoreCompileInputs.cache
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.dll
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\refint\myfirstapp.dll
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.pdb
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\myfirstapp.genruntimeconfig.cache
+D:\Personal\Escritorio\.Net\Seccion1\myfirstapp\obj\Debug\net6.0\ref\myfirstapp.dll
